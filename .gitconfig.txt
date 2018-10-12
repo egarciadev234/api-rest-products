@@ -1,0 +1,8 @@
+[user]
+	name = Erick Echeverry Garcia
+	email = developeeg@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
